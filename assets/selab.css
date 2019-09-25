@@ -11,4 +11,6 @@
     padding-bottom: .5em;
 }
 
-    
+.ui.breadcrumb a {
+    color: #4162c4;
+}
