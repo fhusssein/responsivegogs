@@ -12,9 +12,9 @@
 }
 
 .ui.breadcrumb{
-    color: #4162c4;
+    color: #4763d0;
 }
 
-.ui.basic.blue.button{
+.ui.basic.blue.button, .ui.basic.blue.buttons .button{
     color: #43529e;
 }
