@@ -11,6 +11,10 @@
     padding-bottom: .5em;
 }
 
-.ui.breadcrumb a {
+.ui.breadcrumb{
     color: #4162c4;
+}
+
+.ui.basic.blue.button{
+    color: #43529e;
 }
