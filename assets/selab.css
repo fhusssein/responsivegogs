@@ -16,5 +16,5 @@
 }
 
 .ui.basic.blue.button, .ui.basic.blue.buttons .button{
-    color: #43529e;
+    color: #43529e!important;
 }
