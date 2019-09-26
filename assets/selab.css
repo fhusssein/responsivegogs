@@ -23,3 +23,7 @@ a {
     color: #376fa5;
     text-decoration: none;
 }
+
+.ui .text.grey {
+    color: #0e0b0b !important;
+}
