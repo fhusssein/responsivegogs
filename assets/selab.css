@@ -18,3 +18,8 @@
 .ui.basic.blue.button, .ui.basic.blue.buttons .button{
     color: #43529e!important;
 }
+
+a {
+    color: #376fa5;
+    text-decoration: none;
+}
